@@ -140,7 +140,7 @@ function playerTrigger(index){
 		}
 		else {
 			wrongAnswerSound.play();
-			setTimeout(loseGame,500);
+			setTimeout(loseGame,200);
 			textSize(32);
 			fill(200,0,0);
 			text("YOU HAVE BEEN DEFEATED BY SIMON.",200,250);  
