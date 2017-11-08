@@ -1,5 +1,5 @@
 var radLimit =40;
-var numPlayers = 4;
+var numPlayers = 6;
 var diameter = 1800;
 var arcLength = 360/numPlayers;
 var tempo = 300;
